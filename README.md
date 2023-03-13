@@ -1,4 +1,4 @@
-## Platform : [ChatUI](https://chat-f6b33.web.app/)
+## Platform : [ChatUI](https://taimul-chatui.netlify.app/)
 
 ### Technologies:
 
